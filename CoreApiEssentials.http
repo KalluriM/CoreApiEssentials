@@ -1,0 +1,6 @@
+@CoreApiEssentials_HostAddress = http://localhost:5015
+
+GET {{CoreApiEssentials_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
